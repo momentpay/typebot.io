@@ -73,7 +73,7 @@
     "ky": "1.2.4",
     "micro-cors": "0.1.1",
     "next": "14.2.13",
-    "next-auth": "4.24.8",
+    "next-auth": "4.24.12",
     "nextjs-cors": "2.1.2",
     "nodemailer": "6.9.15",
     "nprogress": "0.2.0",
