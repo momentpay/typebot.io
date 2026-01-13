@@ -25,7 +25,7 @@
     "marked": "9.0.3",
     "partysocket": "1.0.2",
     "solid-element": "1.9.0",
-    "solid-js": "1.9.2",
+    "solid-js": "1.9.4",
     "@typebot.io/blocks-bubbles": "workspace:*",
     "@typebot.io/blocks-inputs": "workspace:*",
     "@typebot.io/blocks-logic": "workspace:*",
